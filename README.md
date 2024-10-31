@@ -1,8 +1,8 @@
 # Hola mi nombre es Juan Camilo
 
-### Tecnologo en Electronica Industrial - Estudiante de Ingenieria de Telecomunicaciones
+### Soy Tecnologo en Electronica Industrial - Estudiante de Ingenieria de Telecomunicaciones
 
-sa
+Soy un apasionado por el area de la administracion y el desarollo de base de datos, desarrollo web y en el area de direccionamiento, servicios y configuracion de redes. Actualmente soy estudiante de septimo semestre de Ingeniería en Telecomunicaciones. Mi objetivo es aportar mis conocimientos en la industria tecnologica la cual se encuentra en constante crecimiento.
 <!--
 **JuanCamiloDev/JuanCamiloDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
