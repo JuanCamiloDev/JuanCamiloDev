@@ -1,7 +1,8 @@
 # Hola mi nombre es Juan Camilo
 
-### Tecnologo en Electronica Industrial
-### Estudiante de Ingenieria de Telecomunicaciones
+### Tecnologo en Electronica Industrial - Estudiante de Ingenieria de Telecomunicaciones
+
+sa
 <!--
 **JuanCamiloDev/JuanCamiloDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
