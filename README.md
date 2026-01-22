@@ -2,7 +2,7 @@
 
 ### Soy Tecnologo en Electronica Industrial - Estudiante de Ingenieria de Telecomunicaciones
 
-Soy un apasionado por el area de la administracion y el desarollo de base de datos, desarrollo web y en el area de direccionamiento, servicios y configuracion de redes. Actualmente soy estudiante de septimo semestre de Ingeniería en Telecomunicaciones. Mi objetivo es aportar mis conocimientos en la industria tecnologica la cual se encuentra en constante crecimiento.
+Experiencia en el area de desarrollo y despliegue de aplicaciones web,  arquitectura de desarrollo de servicios, administracion de base de datos, soporte tecnico a usuarios y direccionamiento, enrutamiento y configuracion de redes. Me destaco por el compromiso y dedicacion en los proyecto asignados. Actualmente soy estudiante de ultimo semestre de Ingeniería en Telecomunicaciones. Mi objetivo es seguir aportando mis conocimientos a la industria tecnologica la cual siempre se encuentra en constante crecimiento.
 <!--
 **JuanCamiloDev/JuanCamiloDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
