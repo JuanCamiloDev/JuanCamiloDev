@@ -3,7 +3,7 @@
 ### Ingenieria de Telecomunicaciones
 ### Universidad Distrital Francisco Jose de Caldas
 
-Experiencia en el area de desarrollo y despliegue de aplicaciones web,  arquitectura de desarrollo de servicios, administracion de base de datos, soporte tecnico a usuarios y direccionamiento, enrutamiento y configuracion de redes. Me destaco por el compromiso y dedicacion en los proyecto asignados. Actualmente soy estudiante de ultimo semestre de Ingeniería en Telecomunicaciones. Mi objetivo es seguir aportando mis conocimientos a la industria tecnologica la cual siempre se encuentra en constante crecimiento.
+Soy Ingeniero de telecomunicaciones con experiencia en soporte y monitoreo NOC de infraestructura cloud y on - premise, automatizando procedimientos operativos, administrando bases de datos en entornos híbridos y soporte de plataformas empresariales (PaaS) garantizando la disponibilidad, rendimiento y cumplimiento de los servicios.
 <!--
 **JuanCamiloDev/JuanCamiloDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
